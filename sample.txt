@@ -1,0 +1,2 @@
+
+1. creating and initialising commit by lavan to get started with git and gitHub.
