@@ -1,1 +1,4 @@
 1. first check to verify "git diff" and commit it.
+
+2. second check to verify "git diff" and this time it is completed successfully with the change and commit it.
+
